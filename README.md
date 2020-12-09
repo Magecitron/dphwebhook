@@ -44,3 +44,12 @@ If you don't want to install via composer, you can use this way.
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
 ```
+### How to see the configuration
+
+```
+1. Go to the backend
+
+On the Magento Admin Panel, you navigate to Stores -> Configuration -> Advanced -> System -> DPH Webhook Configuration
+
+Setup your webhook configuaration
+```
