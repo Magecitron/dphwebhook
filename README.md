@@ -18,7 +18,7 @@ php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
 ```
 
-#### 1.2 Upgrade
+#### 1.2 Upgrade (Optional)
 
 ```
 composer update magecitron/dphwebhook
